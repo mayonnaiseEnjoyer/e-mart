@@ -90,6 +90,17 @@ Step 4. Run the Project
 -Create your own account to shop
 
 
+Tools & Technologies Used:
+- PHP
+- MySQL
+- phpMyAdmin
+- HTML
+- CSS
+- JavaScript
+- XAMPP
+
+
+
 
 
 
