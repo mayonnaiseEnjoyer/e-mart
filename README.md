@@ -11,6 +11,10 @@ It supports user creation, seller dashboards, product management, and transactio
 - Product listing with images, descriptions, prices, and stock
 - Transaction history and total earnings display
 
+## Demo Presentation
+-click the link to see the video
+https://drive.google.com/drive/folders/1AqChKqzW2fIbwiNb5SY7G4TRZcCRQ6Dm?usp=sharing
+
 ---
 
 ### Project Structure
