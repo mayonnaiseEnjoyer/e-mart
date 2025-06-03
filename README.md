@@ -50,9 +50,6 @@ Step 1. Clone or extract project files
 
 Download or clone the project into your web server directory (e.g., `htdocs` for XAMPP):
 
-```bash
-git clone https://github.com/yourusername/e_mart.git
-
 Or unzip the e_mart.zip and place it in your server directory.
 
 
